@@ -9,8 +9,11 @@
 
 ---
 
-## Análise ao longo do ano
-![](images/overview.png)
+## Análise ao longo do ano  
+![](images/overview.png)  
+* O tamanho da marca "x verde" é proporcional a probabilidade da instância ocorrer.  
+* Os testes foram feitos sobre os últimos 15 anos.
+
 
 ---
 
@@ -33,10 +36,7 @@
 
 ## Principais fatores (ML)
 
-![](tables/fatores_ml1.png)
-
-
-
+![](tables/fatores_ml.png)
 
 
 ---
